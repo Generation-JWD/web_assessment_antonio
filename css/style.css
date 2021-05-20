@@ -3,10 +3,29 @@
     margin: 0;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
+
+body {
+    font-family: "Noto Sans JP", sans-serif;
+    background-image: url("../images/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /* Navbar */
+.navbar {
+    box-shadow: 10px 5px 5px lightgray;
+}
+
 .logo_img {
     width: 6rem;
     height: auto;
+}
+
+/* header */
+h1 {
+    color: rgb(22, 133, 128);
 }
 
 /* car section */
