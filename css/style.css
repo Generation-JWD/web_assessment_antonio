@@ -49,6 +49,18 @@ form {
     background-color: lightgray;
 }
 
+.btn-primary {
+    /* color: #fff; */
+    background-color: hsl(177, 72%, 30%);
+    border-color: hsl(177, 72%, 30%);
+}
+
+.btn-primary:hover {
+    background-color: hsl(177, 64%, 23%);
+    border-color: hsl(177, 64%, 23%);
+}
+
+
 /* contact */
 
 .embed-responsive-item {
