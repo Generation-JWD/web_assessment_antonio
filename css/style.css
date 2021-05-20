@@ -29,3 +29,10 @@
 form {
     background-color: lightgray;
 }
+
+/* contact */
+
+.embed-responsive-item {
+    width: 18rem;
+    height: 16rem;
+}
